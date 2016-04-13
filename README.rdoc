@@ -24,7 +24,6 @@ Things you may want to cover:
 * Developers:
 * Ian Carroll
 * Kathy Sturdevant
-* Fozzy Bear
 * Kevin
 * Jamie
 
