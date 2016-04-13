@@ -21,17 +21,14 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* Developers: 
-*    Ian Carroll
-*    Kathy Sturdevant
-
 * Developers:
-*	Ian Carroll
-*	Kathy Sturdevant
-*	Fozzy Bear
+* Ian Carroll
+* Kathy Sturdevant
+* Fozzy Bear
+* Kevin
+* Jamie
 
-Kevin
-Jamie
+* ...
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
